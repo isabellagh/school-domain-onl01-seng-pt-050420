@@ -4,7 +4,7 @@
     attr_accessor :roster
     
     def initialize(school, name)
-      @school_name = school_name
+      @name = school_name
       @roster = {}
       
     end 
